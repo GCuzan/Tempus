@@ -22,3 +22,6 @@ To log out of your account, simply tap the top left button in the calendar scree
 
 ## License 
 Tempus is licensed under the Apache License 2.0. See the LICENSE file for more details.
+
+## Developers
+Tempus was made as a midterm project for Full Sail University's Computer Science degree program. It was a group project developed by Luis Cordero, Thomas Nguyen, and Gabriel Cuzan. As such, any credit for the development of this project belongs to these three. 
